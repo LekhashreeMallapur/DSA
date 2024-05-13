@@ -9,6 +9,7 @@ int main() {
 
     if (ch >= 'a' && ch <= 'z') {
         cout << "The character is a letter." <<endl;}
+        cout << "The character is a letter." <<endl;}
     else if(ch >= 'A' && ch <= 'Z') {
         cout << "The character is a capital letter." <<endl;}
     else if (ch >= '0' && ch <= '9') {
